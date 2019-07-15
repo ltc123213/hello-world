@@ -1,4 +1,3 @@
 # hello-world
 Just another repository 
-New to github. Looking forward to learning. 
-/run, walk, crawl. 
+New to github. Looking forward to learning.
